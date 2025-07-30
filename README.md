@@ -15,7 +15,6 @@ I thrive at the intersection of **Data Analytics**, **BI Tools**, and **Cloud Pl
 
 ### ⚙️ My Tech Stack
 
-<h3>🛠 Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
