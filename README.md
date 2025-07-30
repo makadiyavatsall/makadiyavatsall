@@ -14,28 +14,37 @@
 
 ### ⚙️ My Tech Stack
 
+<!-- Tech Stack Section -->
+
+<h3>🛠 Tech Stack</h3>
+
 <p align="center">
-<!-- Data Analyst Tech Stack -->
-<!-- Languages & Libraries -->
-<img src="https://skillicons.dev/icons?i=python,r,sql" />
-<br/>
+  <!-- Programming & Scripting -->
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=r" alt="R" />
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" />
 
-<!-- Data Tools -->
-<img src="https://skillicons.dev/icons?i=excel,pandas,numpy" />
-<br/>
+  <!-- Data Analysis Libraries -->
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=excel" alt="Excel" />
 
-<!-- Visualization & BI Tools -->
-<img src="https://skillicons.dev/icons?i=tableau,powerbi" />
-<br/>
+  <!-- Cloud & Databases -->
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
 
-<!-- Cloud & Databases -->
-<img src="https://skillicons.dev/icons?i=aws,gcp,mysql,postgres" />
-<br/>
+  <!-- Developer Tools -->
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
 
-<!-- Dev Tools -->
-<img src="https://skillicons.dev/icons?i=vscode,github,git" />
-
+  <!-- Visualization Tools (Manual badges for non-supported icons) -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
+
 
 ---
 
