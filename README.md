@@ -20,8 +20,6 @@ I thrive at the intersection of **Data Analytics**, **BI Tools**, and **Cloud Pl
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=r" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=sqlite" />
@@ -30,6 +28,10 @@ I thrive at the intersection of **Data Analytics**, **BI Tools**, and **Cloud Pl
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
 
