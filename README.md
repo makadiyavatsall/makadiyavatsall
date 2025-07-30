@@ -18,30 +18,20 @@ I thrive at the intersection of **Data Analytics**, **BI Tools**, and **Cloud Pl
 <h3>🛠 Tech Stack</h3>
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=r" alt="R" />
-  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" />
-
-  <!-- Data Analysis & Viz -->
-  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
-  <img src="https://skillicons.dev/icons?i=excel" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-
-  <!-- Databases & Cloud -->
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=r" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=gcp" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
+
 
 ---
 
