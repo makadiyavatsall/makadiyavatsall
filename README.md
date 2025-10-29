@@ -13,7 +13,7 @@ I thrive at the intersection of **Data Analytics**, **BI Tools**, and **Cloud Pl
 
 ---
 
-###⚙️ My Tech Stack
+⚙️ My Tech Stack
 
 
 <p align="center">
